@@ -9,16 +9,21 @@ First, run the development server:
 ```
 # clone the project
 
-~ git clone https://github.com/mibalbert/Sensational-Ecom-Website.git
+$ git clone https://github.com/mibalbert/Sensational-Ecom-Website.git
 
-```
+# run the project locally
 
-```
-npm run dev
-
+$ npm run dev
 # or
+$ yarn dev
 
-yarn dev
+# create a build
+
+$ npm run build
+
+# run the build
+
+$ npm run start
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
