@@ -4,12 +4,24 @@
 First, run the development server:
 
 
-## Running the project
+## Getting started with this project
 
-```bash
+```
+# clone the project
+
+~ git clone https://github.com/mibalbert/Sensational-Ecom-Website.git
+
+```
+
+```
+bash
+
 npm run dev
+
 # or
+
 yarn dev
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
